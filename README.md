@@ -72,8 +72,6 @@ Exported results: [sql/sql_query_results.xlsx](sql/sql_query_results.xlsx)
 
 ## 7. Dashboard Overview
 
-## 7. Dashboard Overview
-
 **Page 1 - Executive Credit Summary:** portfolio-wide KPIs, approval trend, loan
 status breakdown.
 
