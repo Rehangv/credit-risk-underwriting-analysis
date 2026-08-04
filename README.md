@@ -72,18 +72,28 @@ Exported results: [sql/sql_query_results.xlsx](sql/sql_query_results.xlsx)
 
 ## 7. Dashboard Overview
 
+## 7. Dashboard Overview
+
 **Page 1 - Executive Credit Summary:** portfolio-wide KPIs, approval trend, loan
 status breakdown.
+
+![Executive Credit Summary](screenshots/page1_executive_summary.png)
 
 **Page 2 - Sector Risk Intelligence:** top 10 riskiest sectors by rate and by dollar
 loss, plus a treemap showing portfolio concentration (size) vs. default risk (color)
 across the top 20 sectors by volume.
 
+![Sector Risk Intelligence](screenshots/page2_sector_risk.png)
+
 **Page 3 - Risk Drivers: Structure & Geography:** default rate by loan term, business
 type, business age, and state, plus a loan size x term default rate heatmap.
 
+![Risk Drivers: Structure & Geography](screenshots/page3_structure_geography.png)
+
 **Page 4 - Portfolio Risk & Recommendations:** Portfolio at Risk / Recovery Rate KPIs,
 a 30-sector risk-tier watchlist, and written lending recommendations.
+
+![Portfolio Risk & Recommendations](screenshots/page4_recommendations.png)
 
 Dashboard file: [powerbi/credit_risk_dashboard.pbix](powerbi/credit_risk_dashboard.pbix)
 
